@@ -99,4 +99,3 @@ Modern dashboard with panels to:
 
 ---
 
-**Made with ❤️ for academic credential verification and blockchain education.** 
