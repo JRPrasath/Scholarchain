@@ -78,9 +78,9 @@ Modern dashboard with panels to:
 
 **Screenshots:**
 
-![Image](path/to/image.png)
+![Interface](image.png)
 
-![Image2](path/to/image2.png)
+![BlockChain List](image2.png)
 
 
 ---
